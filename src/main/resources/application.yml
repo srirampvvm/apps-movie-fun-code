@@ -1,3 +1,5 @@
+rabbitmq:
+  queue: my-rabbit-queue
 spring:
   jpa:
     generate-ddl: true
